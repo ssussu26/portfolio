@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'EF_MACHO';
+  src: url('EF_MACHO.eot');
+  src: url('EF_MACHO.eot?#iefix') format('embedded-opentype'),
+    url('EF_MACHO.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'EF_MACHO';
+  src: url('EF_MACHO.svg#EF_MACHO') format('svg'),
+    url('EF_MACHO.ttf') format('truetype'),
+    url('EF_MACHO.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OKCHAN';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2206-02@1.0/OKCHAN.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+/* font-family부분을 main.css에 적어줘야함 */
+
+
+@font-face {
+  font-family: 'OK DDUNG';
+  src: url('OK DDUNG.eot');
+  src: url('OK DDUNG.eot?#iefix') format('embedded-opentype'),
+    url('OK DDUNG.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OKDDUNG';
+  src: url('OKDDUNG.svg#OKDDUNG') format('svg'),
+    url('OKDDUNG.ttf') format('truetype'),
+    url('OKDDUNG.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
